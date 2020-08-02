@@ -1,0 +1,54 @@
+/*------------------------------------
+  Stop Colors
+------------------------------------*/
+.rounded-blog{
+  border-top-left-radius:50%;
+}
+
+.rounded-r-blog{
+  border-top-right-radius:50%;
+}
+
+.u-stop-color-white {
+    stop-color: #fff;
+  }
+  
+  .u-stop-color-primary {
+    stop-color: #377dff;
+  }
+  
+  .u-stop-color-primary-darker {
+    stop-color: #196eff;
+  }
+  
+  .u-stop-color-primary-lighter {
+    stop-color: #19a0ff;
+  }
+  
+  .u-stop-color-warning {
+    stop-color: #ffc107;
+  }
+  
+  .u-stop-color-warning-darker {
+    stop-color: #efa02e;
+  }
+  
+  .u-stop-color-danger {
+    stop-color: #de4437;
+  }
+  
+  .u-stop-color-danger-lighter {
+    stop-color: #ec5245;
+  }
+  
+  .u-stop-color-info {
+    stop-color: #00dffc;
+  }
+  
+  .u-stop-color-info-lighter {
+    stop-color: #55eafe;
+  }
+  
+  .u-stop-color-midnightblue {
+    stop-color: #2d1582;
+  }
